@@ -5,13 +5,15 @@ This is a web-based **Inventory Management System** developed as part of a DBMS 
 ---
 
 ## 🖼️ Screenshot
+![Screenshot 2025-05-12 215720](https://github.com/user-attachments/assets/7e7e96ac-ffe5-4012-ad05-b622c2f5f282)
+![Screenshot 2025-05-12 215740](https://github.com/user-attachments/assets/57ec8d90-8ff5-40bb-876d-266ba8d68e0d)
+![Screenshot 2025-05-12 215754](https://github.com/user-attachments/assets/4bf8881a-af9c-4060-b161-0cf4e81cf772)
+![Screenshot 2025-05-12 215811](https://github.com/user-attachments/assets/09cba7d2-4b88-4cab-abde-b1dfdd59a015)
+![Screenshot 2025-05-12 215830](https://github.com/user-attachments/assets/54cca18c-af39-45ba-95db-71425942f422)
+![Screenshot 2025-05-12 215846](https://github.com/user-attachments/assets/711526ae-77cf-4fcc-9988-799c3b20c541)
+![Screenshot 2025-05-12 215902](https://github.com/user-attachments/assets/d64fa5e3-d44d-4772-af08-508d010ec2ff)
 
-#
-![Screenshot (5)](https://user-images.githubusercontent.com/36708000/189607065-28afd173-791a-43b6-8cb5-6584fadedafe.png)
-#
-![Screenshot (6)](https://user-images.githubusercontent.com/36708000/189607084-08499a5c-3c23-4c81-bf2f-bda7f6f0bdd8.png)
-#
-![Screenshot (7)](https://user-images.githubusercontent.com/36708000/189607103-2ace09bb-3b20-4ec2-a4e1-31b506d8b740.png)
+
 
 ---
 
